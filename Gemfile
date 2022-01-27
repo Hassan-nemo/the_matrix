@@ -17,7 +17,7 @@ gem 'rack', '2.0.8'
 gem 'rack-cors', '1.1.1', require: 'rack/cors'
 gem 'rack-timeout', '~> 0.5'
 gem 'rails', '~> 5.2.0'
-gem 'sidekiq', '~> 5.1'
+gem 'sidekiq', '~> 6.4'
 
 group :development do
   gem 'listen', '>= 3.0.5', '< 3.2'
