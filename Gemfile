@@ -9,7 +9,7 @@ gem 'grape', '~> 0.16.2'
 gem 'grape-entity', '~> 0.4.8'
 gem 'grape-swagger', '0.11.0' # grape-swagger v0.20.0 and v0.20.1 break Swagger
 gem 'grape-swagger-rails'
-gem 'loofah', '2.4.0'
+gem 'loofah', '2.19.1'
 gem 'nokogiri', '1.10.7'
 gem 'pg', '~> 1.0'
 gem 'puma', '4.3.1'
